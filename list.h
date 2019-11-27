@@ -3,7 +3,6 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#define PATH "E:\\CodeFiles\\2019\\lab3\\F.txt"
 
 typedef struct Node{
     struct Node *prev;
