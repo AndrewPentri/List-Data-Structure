@@ -1,6 +1,3 @@
-#ifndef LAB3_LIST_H
-#define LAB3_LIST_H
-
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -37,6 +34,3 @@ void list_add_to_back(List* list, char *value);
 void node_init(Node* node);
 void node_print(Node* node);
 void node_remove(Node* node);
-
-
-#endif //LAB3_LIST_H
